@@ -1,0 +1,21 @@
+---
+title: "I'm gonna suture up my future"
+#page-layout: full
+title-block-banner: false
+comments: false
+toc: false
+---
+
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
+### Olá!!
+
+Inicia-se aqui uma nova etapa de uma velha história. **O MUNDO É GRANDE DEMAIS PARA SE VIVER EM UM SÓ LUGAR**. Com isso, depreende-se de explorar cada canto que este planeta vasto e diverso tem a oferecer - vislumbrando lugares, culturas, eventos, comidas (😋), e muito mais.
+
+![](.\imagens\vacaciones.jpg)
+
+Este espaço está sendo criado para reunir informações detalhadas dos lugares que este pobre ser *sonha* em ver ao vivo. Países, cidades, vilarejos, praias, mares e tudo que for possível e legal para conhecer será documentado aqui para, quando chegar a hora, única preocupação for arrumar a mala e que horas sai o próximo busão.

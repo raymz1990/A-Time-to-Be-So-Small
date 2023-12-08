@@ -1,0 +1,69 @@
+project:
+  type: website
+
+website:
+  #page-navigate: true
+  title: "A Time to Be So Small"
+  site-url: ""
+  #google-analytics: ""
+  page-footer:
+    left: "Blog made with [Quarto](https://quarto.org/), by Raymundo Eduardo Pilz. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/raymz1990/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raymundopilz/
+      - icon: envelope
+        href: mailto:raymundopilz@gmail.com
+  search: true
+  back-to-top-navigation: true
+
+  navbar:
+    pinned: true
+    search: true
+    #left:
+    #  - text: Home
+    #    href: index.qmd
+    right:
+      - text: América do Sul
+        menu:
+          - text: Uruguai
+            href: countries/southamerica/uruguai/uruguai.qmd
+          - text: Argentina
+            href: countries/southamerica/argentina/argentina.qmd
+      - text: Imersao
+        menu:
+          - text: Inglês
+            href: languages/english.qmd
+          - text: Espanhol
+            href: languages/espanhol.qmd
+
+  sidebar:
+    - title: "Home"
+      style: "docked"
+      search: false  
+      contents: auto
+
+format:
+  html:
+    smooth-scroll: true
+    theme:
+      light: united
+      dark: slate
+    toc: true 
+    toc-location: left # barra lateral esquerda com conteudo
+    #css: styles.css
+    highlight-style: dracula
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.atimetobesosmall\.com\/**'
+    citations-hover: true
+    footnotes-hover: true
+    code-link: true
+
+#comments:
+#  giscus:
+#    repo: raymz1990/ATimetoBeSoSmall
+
+execute:
+  freeze: true

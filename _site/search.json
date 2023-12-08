@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "I’m gonna suture up my future",
+    "section": "",
+    "text": "Olá!!\nInicia-se aqui uma nova etapa de uma velha história. O MUNDO É GRANDE DEMAIS PARA SE VIVER EM UM SÓ LUGAR. Com isso, depreende-se de explorar cada canto que este planeta vasto e diverso tem a oferecer - vislumbrando lugares, culturas, eventos, comidas (😋), e muito mais.\n\nEste espaço está sendo criado para reunir informações detalhadas dos lugares que este pobre ser sonha em ver ao vivo. Países, cidades, vilarejos, praias, mares e tudo que for possível e legal para conhecer será documentado aqui para, quando chegar a hora, única preocupação for arrumar a mala e que horas sai o próximo busão.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#olá",
+    "href": "index.html#olá",
+    "title": "I’m gonna suture up my future",
+    "section": "",
+    "text": "Inicia-se aqui uma nova etapa de uma velha história. O MUNDO É GRANDE DEMAIS PARA SE VIVER EM UM SÓ LUGAR. Com isso, depreende-se de explorar cada canto que este planeta vasto e diverso tem a oferecer - vislumbrando lugares, culturas, eventos, comidas (😋), e muito mais.\n\nEste espaço está sendo criado para reunir informações detalhadas dos lugares que este pobre ser sonha em ver ao vivo. Países, cidades, vilarejos, praias, mares e tudo que for possível e legal para conhecer será documentado aqui para, quando chegar a hora, única preocupação for arrumar a mala e que horas sai o próximo busão."
+  },
+  {
+    "objectID": "countries/southamerica/uruguai/uruguai.html",
+    "href": "countries/southamerica/uruguai/uruguai.html",
+    "title": "Uruguai",
+    "section": "",
+    "text": "Info\n\n\n\nThis is a callout with a title.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "countries/southamerica/uruguai/uruguai.html#what-we-will-talk-about-in-this-post",
+    "href": "countries/southamerica/uruguai/uruguai.html#what-we-will-talk-about-in-this-post",
+    "title": "Uruguai",
+    "section": "What we will talk about in this post",
+    "text": "What we will talk about in this post\nThis post is a tutorial on how to use GitHub Actions with an R script, using GitHub on a browser :) We will write a GitHub Action workflow that runs an R script to collect data about the repositories in the quarto organizations and save the result into the GitHub repository.\n\nCreate a GitHub Account\nCreate a repository\nCreate a README.md file (this is optional)\nCreate an R Script\nCreate the workflow\nWatch your awesome automation run"
+  },
+  {
+    "objectID": "countries/southamerica/uruguai/uruguai.html#creating-your-first-workflow",
+    "href": "countries/southamerica/uruguai/uruguai.html#creating-your-first-workflow",
+    "title": "Uruguai",
+    "section": "Creating your first workflow",
+    "text": "Creating your first workflow\nCreate a GitHub account\nTo start using GitHub Actions, first, you need to have an account on GitHub. You can create a new account for free! You also can sign in to your existing account if you already have one.\nCreate a repository\nGitHub Actions workflows work within a repository. So, the next step is to create one!\nIf you don’t know what a repository is, imagine having a directory on your computer, and you store files from a project in that directory. A repository is like that but in the cloud!\nTo create a repository, on the homepage of GitHub, click on the “+” icon in the top right corner and select New repository. Give your repository a name, then choose whether you want it to be public or private. Then click “Create repository”.\n\n\n\n\nFor this example, I created a repository called awesome-gha.\nCreate a README.md file\nNow that we have a repository, we can start creating and adding files to it. There are multiple ways you can interact with GitHub: you can use Git on command line, or clone the repository to your machine and use the RStudio Git Pane, for example. For this post, I will use GitHub in the browser, so even if you are not used to using Git on your machine, it will be possible to follow along.\nFirst, click on “Creating a new file”:\n\n\n\n\nThen, add a name for the file: let’s create a file called README.md. This file is the first thing people see when accessing your repository, so adding some information about your project is nice. Then, you can add text and Markdown code in the “Edit new file” section, and finally, click on “Commit new file” to save your changes.\n\n\n\n\nAwesome! We have a repository, and now we can start working on our GitHub Actions.\n\n\n\n\nCreate an R Script\nNow we can start creating an R script. For a first GitHub Action, it is nice to start with something simple so we understand what is going on. To create a new file, click on “Add file” and then choose “Create new file”:\n\n\n\n\nIn this example, I created an R script in the path 01-monitoring-quarto-repos/script.R and added this code:"
+  },
+  {
+    "objectID": "countries/Lista1.html#elementos-estruturais",
+    "href": "countries/Lista1.html#elementos-estruturais",
+    "title": "Lista 01",
+    "section": "Elementos Estruturais",
+    "text": "Elementos Estruturais\n\n13. Crie um sub-título de nível 2."
+  },
+  {
+    "objectID": "countries/Lista1.html#subtítulo-de-nível-2",
+    "href": "countries/Lista1.html#subtítulo-de-nível-2",
+    "title": "Lista 01",
+    "section": "Subtítulo de Nível 2",
+    "text": "Subtítulo de Nível 2\n\n14. Faça uma divisão horizontal.\n\n15. Crie uma lista aninhada com pelo menos dois níveis.\n\nItem\n\nSubitem 1\nSubitem 2\n\n\n\n16. Crie um trecho de código inline.\ncodigo_inline()\n17. Insira um bloco de código com realce de sintaxe para R.\n# Soma no R\nx &lt;- 1 + 1\nprint(x)\n18. Crie um link para uma seção dentro do próprio documento.\nIr para Elementos Estruturais\n19. Liste os itens a seguir em uma tabela com duas colunas: “Item” e “Quantidade”.\n\n\nItem\nQuantidade\n\n\n\nMaçãs\n5\n\n\nBananas\n3\n\n\nLaranjas\n8"
+  },
+  {
+    "objectID": "countries/Lista1.html#outras-funcionalidades",
+    "href": "countries/Lista1.html#outras-funcionalidades",
+    "title": "Lista 01",
+    "section": "Outras Funcionalidades",
+    "text": "Outras Funcionalidades\n\n20. Crie uma nota de rodapé com uma explicação.\nEu tenho mais pra dizer. 1\n21. Crie uma lista de tarefas com três itens.\n\n\nTarefa 1\n\nTarefa 2\n\nTarefa 3\n\n22. Inclua uma citação de um livro ou autor.\n\n“O Pistoleiro segue o Homem de Preto em um mundo desolado. Sua obsessão por ele vai fazer com que tome decisões ruins ao longo de sua jornada.” - O Pistoleiro\n\n23. Crie um bloco de código com várias linhas usando realce de sintaxe.\nCódigo\n\na = 1\nb = 2\n\n  \n# Resultado\n\nprint(a + b)\n\n[1] 3\n\n\n24. Destaque um trecho de texto como código, sem realce de sintaxe.\nA soma de a + b é igual a 3.\n25. Crie um link automático para um URL.\nhttps://www.google.com\n26. Liste os passos de um tutorial usando sub-listas.\n\nPrimeiro passo:\n\n\nSubpasso 1\nSubpasso 2\n\n\nSegundo passo:\n\nSubpasso 1\nSubpasso 2\n\n\n\n27. Incorpore um vídeo do YouTube.\n\n\nShrek sextou!\n\n28. Insira um elemento de áudio.\n29. Insira um emoji no seu texto (por exemplo, um coração ♥).\n:heart:\n30. Crie um alerta colorido usando callout.\n\nI am a success message\n\n\nI am an error message\n\n\nI am a info message\n\n\nI am a warning message"
+  },
+  {
+    "objectID": "countries/Lista1.html#footnotes",
+    "href": "countries/Lista1.html#footnotes",
+    "title": "Lista 01",
+    "section": "Footnotes",
+    "text": "Footnotes\n\nNota de rodapé: Esta é a explicação.↩︎"
+  }
+]

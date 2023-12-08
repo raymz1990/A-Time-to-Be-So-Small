@@ -1,0 +1,14 @@
+{
+  "hash": "91617b6ad8d29206722a5e2e2079fe74",
+  "result": {
+    "markdown": "---\ntitle: \"Uruguai\"\nsubtitle: \"Libertad o Muerte\"\nauthor: \"Raymundo\"\ndate: \"2023-12-08\"\ncategories: [\"Uruguai\"]\n#image: \"featured.png\"\ntoc: true\ndraft: false\nsidebar:  false\nalways_allow_html: true\n---\n\n\n\n\n<style>\n  body {\n    text-align: justify;\n  }\n</style>\n\n::: {.callout-important title=\"Info\"}\n\nThis is a callout with a title.\n\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
